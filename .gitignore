@@ -1,0 +1,17 @@
+# Arduino / build artifacts
+build/
+*.ino.cpp
+*.hex
+*.elf
+*.bin
+
+# Arduino IDE
+*.ino.orig
+*.ino.reverted
+*.swp
+*.swo
+.DS_Store
+
+# PlatformIO (au cas ou)
+.pio/
+.vscode/
